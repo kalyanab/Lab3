@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab3
+namespace Demo1
 {
-    internal class Class1
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
