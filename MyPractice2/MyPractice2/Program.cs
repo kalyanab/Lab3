@@ -6,7 +6,7 @@
         {
 
             Console.Write("Enter an un-signed integer value: ");
-            bool Status = uint.TryParse(Console.ReadLine(), out uint x);
+            bool Status = int.TryParse(Console.ReadLine(), out int x);
 
             if (Status == false)
             {
